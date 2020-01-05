@@ -81,5 +81,4 @@ int main()
     }
     cout << endl;
   }
-  cout << dist[1][3] << endl;
 }
