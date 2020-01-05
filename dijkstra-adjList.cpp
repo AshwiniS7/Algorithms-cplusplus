@@ -10,7 +10,7 @@
 #include <set>
 
 using namespace std;
-// Running time: O(V+E)logV = O(ElogV) with adjacency list
+// Running time: O(V+E)logV with adjacency list
 
 int V,E,S;
 typedef pair <int, int> pii;
