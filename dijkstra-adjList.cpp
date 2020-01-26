@@ -1,3 +1,5 @@
+// Dijkstra's shortest path algorithm with graph represented as an adjacency list 
+
 #include <iostream>
 #include <fstream>
 #include <string>
